@@ -1,0 +1,56 @@
+.skills-grid,
+.projects-grid {
+  display: grid;
+  gap: 25px;
+}
+
+.skills-grid {
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+}
+
+.projects-grid {
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+}
+
+.skill-card,
+.project-card {
+  background: #111827;
+  border: 1px solid #1f2937;
+  padding: 30px;
+  border-radius: 20px;
+  transition: 0.3s ease;
+}
+
+.skill-card:hover,
+.project-card:hover {
+  transform: translateY(-5px);
+  border-color: #22d3ee;
+}
+
+.project-card button {
+  margin-top: 20px;
+  padding: 12px 20px;
+  background: #22d3ee;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.contact-section {
+  text-align: center;
+}
+
+.contact-section h2 {
+  font-size: 48px;
+  margin-bottom: 20px;
+}
+
+.contact-section p {
+  font-size: 20px;
+  color: #9ca3af;
+  margin-bottom: 40px;
+}
+
+.contact-section .primary-btn {
+  display: inline-block;
+}

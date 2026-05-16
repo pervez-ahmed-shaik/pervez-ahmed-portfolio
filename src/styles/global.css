@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: #0b1120;
+  color: white;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  width: 90%;
+  max-width: 1200px;
+  margin: auto;
+}
+
+.section {
+  padding: 100px 0;
+}
+
+h1,
+h2,
+h3 {
+  margin-bottom: 20px;
+}
+
+p {
+  color: #9ca3af;
+  line-height: 1.8;
+}
+
+.card {
+  background: #111827;
+  padding: 40px;
+  border-radius: 20px;
+  border: 1px solid #1f2937;
+}

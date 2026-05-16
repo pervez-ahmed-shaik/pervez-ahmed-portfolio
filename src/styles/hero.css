@@ -1,0 +1,49 @@
+.hero {
+  padding: 140px 0;
+}
+
+.hero-subtitle {
+  color: #22d3ee;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  margin-bottom: 20px;
+}
+
+.hero h1 {
+  font-size: 60px;
+  line-height: 1.2;
+  max-width: 800px;
+}
+
+.hero-text {
+  max-width: 700px;
+  margin: 30px 0;
+}
+
+.hero-buttons {
+  display: flex;
+  gap: 20px;
+}
+
+.primary-btn,
+.secondary-btn {
+  padding: 14px 28px;
+  border-radius: 12px;
+  text-decoration: none;
+  transition: 0.3s ease;
+}
+
+.primary-btn {
+  background: #22d3ee;
+  color: black;
+}
+
+.secondary-btn {
+  border: 1px solid #374151;
+  color: white;
+}
+
+.primary-btn:hover,
+.secondary-btn:hover {
+  transform: translateY(-4px);
+}
