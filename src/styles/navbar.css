@@ -28,3 +28,7 @@ nav a {
 nav a:hover {
   color: #22d3ee;
 }
+
+.navbar .logo { 
+  margin-bottom: 0;
+}
