@@ -1,16 +1,67 @@
-# React + Vite
+# Pervez Ahmed Shaik - Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive portfolio website built using React.js and CSS to showcase my frontend development skills, projects, and professional experience.
 
-Currently, two official plugins are available:
+## Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🔗 https://pervez-ahmed-shaik.github.io/pervez-ahmed-portfolio/
 
-## React Compiler
+## About The Project
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+This portfolio website highlights:
+- My frontend development experience
+- React.js projects
+- Technical skills
+- Professional background
+- Contact information
 
-## Expanding the ESLint configuration
+The website is designed with a minimal dark theme and fully responsive layout.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Tech Stack
+
+- React.js
+- JavaScript (ES6+)
+- CSS3
+- HTML5
+- Vite
+- GitHub Pages
+
+## Features
+
+- Responsive design
+- Reusable React components
+- Modern UI design
+- Smooth scrolling
+- Project showcase section
+- GitHub Pages deployment
+
+## Run Locally
+
+Clone the project:
+
+```bash
+git clone https://github.com/pervez-ahmed-shaik/pervez-ahmed-portfolio.git
+```
+
+Go to project directory:
+
+```bash
+cd pervez-ahmed-portfolio
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start development server:
+
+```bash
+npm run dev
+```
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/shaik-pervez-ahmed
+- Email: pervezahmedworkmail@gmail.com
